@@ -1,2 +1,3 @@
-# unet_keras
-Keras implementation of 2D &amp; 3D U-net
+# Keras implementation of 2D and 3D U-net
+
+# Related projects for medical image segmentation
